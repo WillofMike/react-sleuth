@@ -7,7 +7,6 @@ Sleuth is an app designed to create an even playing field for all ISPs. When usi
 
 ## Screenshots
 ![Photo of the home page](./screenshots/home.png)
-![Photo of the ISP ranking found on the home page](./screenshots/homeISPrank.png)
 ![Photo of the google chrome extension](./screenshots/extension.png)
 
 ## How to contribute
