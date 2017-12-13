@@ -39,3 +39,7 @@ Feel free to check with admins to see what projects are currently underway.
 7. [Tito Yslas](https://github.com/tyslas)
 8. [Mike Williams](https://github.com/willofmike)
 9. [Geralle Estes](https://github.com/geralle)
+
+### Contributors
+1. [Paul Rodriguez](https://github.com/prdesignwork)
+2. [Lizz Robbins](https://github.com/lizzrobbins)
