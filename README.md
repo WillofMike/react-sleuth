@@ -9,6 +9,9 @@ Sleuth is an app designed to create an even playing field for all ISPs. When usi
 ![Photo of the home page](./screenshots/home.png)
 ![Photo of the google chrome extension](./screenshots/extension.png)
 
+## Video Walk-through
+[Click here to watch](https://www.youtube.com/watch?v=Km-MMM9Cti0)
+
 ## To run locally:
 1. Fork and clone the repo
 2. In command line, `git clone {insert-your-repo-SSH-key}`
